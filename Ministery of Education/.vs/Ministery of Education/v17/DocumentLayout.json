@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tabarak ICT Solutions\\Ministery of Education\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\shared\\sections\\navbar\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\shared\\sections\\navbar\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\shared\\sections\\navbar\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\shared\\sections\\navbar\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\shared\\_contentnavbarlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|d:\\tabarak ict solutions\\ministery of education\\ministery of education\\data\\ministrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD36C7-A84E-460C-A7E3-8D863EC1E9F1}|Ministery of Education\\Ministery of Education.csproj|solutionrelative:ministery of education\\data\\ministrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_VerticalMenu.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:11:21.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:10:58.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_Navbar.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_Navbar.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\Shared\\Sections\\Navbar\\_Navbar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:10:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ContentNavbarLayout.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\_ContentNavbarLayout.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\Shared\\_ContentNavbarLayout.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Shared\\_ContentNavbarLayout.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\Shared\\_ContentNavbarLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:04:14.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:59:00.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardsController.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Controllers\\DashboardsController.cs",
+              "RelativeDocumentMoniker": "Ministery of Education\\Controllers\\DashboardsController.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Controllers\\DashboardsController.cs",
+              "RelativeToolTip": "Ministery of Education\\Controllers\\DashboardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:50:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Dashboards\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ministery of Education\\Views\\Dashboards\\Index.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Views\\Dashboards\\Index.cshtml",
+              "RelativeToolTip": "Ministery of Education\\Views\\Dashboards\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:47:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Program.cs",
+              "RelativeDocumentMoniker": "Ministery of Education\\Program.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Program.cs",
+              "RelativeToolTip": "Ministery of Education\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:45:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ministery of Education\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ministery of Education\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:32:09.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MinistryDbContext.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Data\\MinistryDbContext.cs",
+              "RelativeDocumentMoniker": "Ministery of Education\\Data\\MinistryDbContext.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Data\\MinistryDbContext.cs",
+              "RelativeToolTip": "Ministery of Education\\Data\\MinistryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:14:32.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
