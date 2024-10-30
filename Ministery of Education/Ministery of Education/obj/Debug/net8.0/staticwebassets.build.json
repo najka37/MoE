@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cKotrn8hkrDnfS5EWVPBRJqut62Qtdljj5AQGuI5V84=",
+  "Hash": "kcRlT2ntAmJCowd05WfKOuVAZQLlW6HeOv5pl1R3pJY=",
   "Source": "Ministery of Education",
   "BasePath": "_content/Ministery of Education",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Ministery of Education\\wwwroot",
       "Source": "Ministery of Education",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\css\\demo.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\css\\demo.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "css/demo.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\demo.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\css\\site.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\favicon.ico",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\1.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\1.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/avatars/1.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatars\\1.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\5.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\5.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/avatars/5.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatars\\5.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\6.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\6.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/avatars/6.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatars\\6.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\7.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\avatars\\7.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/avatars/7.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatars\\7.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\backgrounds\\18.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\backgrounds\\18.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/backgrounds/18.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\backgrounds\\18.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\1.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\1.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/1.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\1.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\11.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\11.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/11.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\11.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\12.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\12.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/12.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\12.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\13.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\13.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/13.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\13.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\17.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\17.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/17.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\17.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\18.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\18.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/18.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\18.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\19.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\19.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/19.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\19.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\2.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\2.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/2.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\2.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\20.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\20.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/20.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\20.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\3.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\3.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/3.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\3.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\4.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\4.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/4.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\4.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\5.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\5.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/5.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\5.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\7.jpg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\elements\\7.jpg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/elements/7.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\elements\\7.jpg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\favicon\\favicon.ico",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\favicon\\favicon.ico",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/favicon/favicon.ico",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon\\favicon.ico"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\asana.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\asana.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/asana.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\asana.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\behance.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\behance.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/behance.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\behance.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\dribbble.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\dribbble.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/dribbble.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\dribbble.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\facebook.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\facebook.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/facebook.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\facebook.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\github.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\github.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/github.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\github.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\google.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\google.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/google.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\google.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\instagram.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\instagram.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/instagram.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\instagram.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\linkedin.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\linkedin.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/linkedin.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\linkedin.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\mailchimp.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\mailchimp.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/mailchimp.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\mailchimp.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\slack.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\slack.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/slack.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\slack.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\twitter.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\brands\\twitter.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/brands/twitter.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\brands\\twitter.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-primary.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-primary.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/cc-primary.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\cc-primary.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-success.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-success.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/cc-success.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\cc-success.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-warning.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\cc-warning.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/cc-warning.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\cc-warning.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\chart.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\chart.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/chart.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\chart.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\chart-success.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\chart-success.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/chart-success.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\chart-success.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\paypal.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\paypal.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/paypal.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\paypal.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\wallet.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\wallet.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/wallet.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\wallet.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\wallet-info.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\icons\\unicons\\wallet-info.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/icons/unicons/wallet-info.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\unicons\\wallet-info.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\girl-doing-yoga-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\girl-doing-yoga-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/illustrations/girl-doing-yoga-light.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\illustrations\\girl-doing-yoga-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\man-with-laptop.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\man-with-laptop.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/illustrations/man-with-laptop.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\illustrations\\man-with-laptop.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\page-misc-error-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\illustrations\\page-misc-error-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/illustrations/page-misc-error-light.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\illustrations\\page-misc-error-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-container-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-container-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/layouts/layout-container-light.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layouts\\layout-container-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-fluid-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-fluid-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/layouts/layout-fluid-light.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layouts\\layout-fluid-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-without-menu-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-without-menu-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/layouts/layout-without-menu-light.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layouts\\layout-without-menu-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-without-navbar-light.png",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\img\\layouts\\layout-without-navbar-light.png",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "img/layouts/layout-without-navbar-light.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\config.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\config.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/config.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\js\\config.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\dashboards-analytics.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\dashboards-analytics.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/dashboards-analytics.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dashboards-analytics.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\extended-ui-perfect-scrollbar.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\extended-ui-perfect-scrollbar.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/extended-ui-perfect-scrollbar.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\extended-ui-perfect-scrollbar.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\form-basic-inputs.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\form-basic-inputs.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/form-basic-inputs.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-basic-inputs.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\main.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\main.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\pages-account-settings-account.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\pages-account-settings-account.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/pages-account-settings-account.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\js\\pages-account-settings-account.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\site.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-modals.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-modals.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/ui-modals.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ui-modals.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-popover.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-popover.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/ui-popover.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ui-popover.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-toasts.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\js\\ui-toasts.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "js/ui-toasts.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ui-toasts.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\core.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\core.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/core.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\core.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/pages/page-account-settings.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\pages\\page-account-settings.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-auth.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-auth.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/pages/page-auth.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\pages\\page-auth.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-icons.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-icons.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/pages/page-icons.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\pages\\page-icons.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-misc.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\pages\\page-misc.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/pages/page-misc.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\pages\\page-misc.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\theme-default.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\css\\theme-default.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/css/theme-default.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css\\theme-default.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons/boxicons.eot",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons/boxicons.svg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons/boxicons.ttf",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons/boxicons.woff",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/fonts/boxicons/boxicons.woff2",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\bootstrap.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\bootstrap.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/js/bootstrap.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\helpers.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\helpers.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/js/helpers.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\helpers.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\menu.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\js\\menu.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/js/menu.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\js\\menu.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/apex-charts/apex-charts.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/apex-charts/apexcharts.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/highlight/highlight.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\highlight\\highlight.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/highlight/highlight.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\highlight\\highlight.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/highlight/highlight-github.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\highlight\\highlight-github.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/jquery/jquery.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/masonry/masonry.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\masonry\\masonry.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/perfect-scrollbar/perfect-scrollbar.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
     },
     {
-      "Identity": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\popper\\popper.js",
+      "Identity": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\vendor\\libs\\popper\\popper.js",
       "SourceId": "Ministery of Education",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\wwwroot\\",
+      "ContentRoot": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\wwwroot\\",
       "BasePath": "_content/Ministery of Education",
       "RelativePath": "vendor/libs/popper/popper.js",
       "AssetKind": "All",

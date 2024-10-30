@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
+      "projectUniqueName": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
       "projectName": "Ministery of Education",
-      "projectPath": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
+      "projectPath": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\obj\\",
+      "outputPath": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

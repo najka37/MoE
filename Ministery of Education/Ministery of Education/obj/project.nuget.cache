@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/SVe69rcVA=",
+  "dgSpecHash": "8WC2mFn9Yp4=",
   "success": true,
-  "projectFilePath": "D:\\Tabarak ICT Solutions\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
+  "projectFilePath": "D:\\Tabarak ICT Solutions\\github\\MoE\\Ministery of Education\\Ministery of Education\\Ministery of Education.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

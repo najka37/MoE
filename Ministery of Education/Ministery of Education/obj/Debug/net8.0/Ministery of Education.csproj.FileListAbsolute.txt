@@ -37,3 +37,42 @@ D:\Tabarak ICT Solutions\Ministery of Education\Ministery of Education\bin\Debug
 D:\Tabarak ICT Solutions\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Tabarak ICT Solutions\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Tabarak ICT Solutions\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Minister.ABAF0956.Up2Date
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\appsettings.Development.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\appsettings.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.staticwebassets.runtime.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.exe
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.deps.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.runtimeconfig.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Ministery of Education.pdb
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.csproj.AssemblyReference.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.AssemblyInfoInputs.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.AssemblyInfo.cs
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.csproj.CoreCompileInputs.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.MvcApplicationPartsAssemblyInfo.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.RazorAssemblyInfo.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.RazorAssemblyInfo.cs
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.sourcelink.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets\msbuild.Ministery of Education.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets\msbuild.build.Ministery of Education.props
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ministery of Education.props
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ministery of Education.props
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\scopedcss\bundle\Ministery of Education.styles.css
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Minister.ABAF0956.Up2Date
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\refint\Ministery of Education.dll
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.pdb
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\Ministery of Education.genruntimeconfig.cache
+D:\Tabarak ICT Solutions\github\MoE\Ministery of Education\Ministery of Education\obj\Debug\net8.0\ref\Ministery of Education.dll
