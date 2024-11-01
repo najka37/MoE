@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\models\\entities\\schooltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:models\\entities\\schooltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\models\\entities\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:models\\entities\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\models\\veiwmodal\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:models\\veiwmodal\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:controllers\\schoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\views\\school\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:views\\school\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\data\\ministrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:data\\ministrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\views\\schooltype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:views\\schooltype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101162635_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241101162635_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\controllers\\schooltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:controllers\\schooltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150617_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241101150617_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150151_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241101150151_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\views\\userrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:views\\userrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\models\\veiwmodal\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:models\\veiwmodal\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\models\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:models\\interface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:views\\shared\\sections\\menu\\_verticalmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|d:\\tabarak ict solutions\\ministory\\moe\\ministery of education\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0069AFDD-E3C4-4F66-A17F-4A19F1EFB517}|Ministery of Education.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolType.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Entities\\SchoolType.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\SchoolType.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Entities\\SchoolType.cs",
+              "RelativeToolTip": "Models\\Entities\\SchoolType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:20:07.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\SchoolType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SchoolType\\Index.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\SchoolType\\Index.cshtml",
+              "RelativeToolTip": "Views\\SchoolType\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswH8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:43:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolController.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\SchoolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SchoolController.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\SchoolController.cs",
+              "RelativeToolTip": "Controllers\\SchoolController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:54:13.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolViewModel.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\VeiwModal\\SchoolViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\VeiwModal\\SchoolViewModel.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\VeiwModal\\SchoolViewModel.cs",
+              "RelativeToolTip": "Models\\VeiwModal\\SchoolViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:57:44.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinistryDbContext.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Data\\MinistryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MinistryDbContext.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Data\\MinistryDbContext.cs",
+              "RelativeToolTip": "Data\\MinistryDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:54:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Entities\\School.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\School.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Entities\\School.cs",
+              "RelativeToolTip": "Models\\Entities\\School.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:53:41.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\School\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\School\\Index.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\School\\Index.cshtml",
+              "RelativeToolTip": "Views\\School\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:56:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolTypeController.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\SchoolTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SchoolTypeController.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\SchoolTypeController.cs",
+              "RelativeToolTip": "Controllers\\SchoolTypeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:38:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241101150617_mod.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150617_mod.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241101150617_mod.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150617_mod.cs",
+              "RelativeToolTip": "Migrations\\20241101150617_mod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:06:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241101162635_mode.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101162635_mode.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241101162635_mode.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101162635_mode.cs",
+              "RelativeToolTip": "Migrations\\20241101162635_mode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:26:35.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241101150151_mod.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150151_mod.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241101150151_mod.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Migrations\\20241101150151_mod.cs",
+              "RelativeToolTip": "Migrations\\20241101150151_mod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:01:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\VeiwModal\\UserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\VeiwModal\\UserRoleViewModel.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\VeiwModal\\UserRoleViewModel.cs",
+              "RelativeToolTip": "Models\\VeiwModal\\UserRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:50:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRoleController.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "Controllers\\UserRoleController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:36:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\UserRole\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserRole\\Index.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\UserRole\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserRole\\Index.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:11:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T14:09:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Interface\\IUser.cs",
+              "RelativeDocumentMoniker": "Models\\Interface\\IUser.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Models\\Interface\\IUser.cs",
+              "RelativeToolTip": "Models\\Interface\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:35:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_VerticalMenu.cshtml",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Sections\\Menu\\_VerticalMenu.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:53:29.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T11:20:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:15:16.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

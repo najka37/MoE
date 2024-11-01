@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/UMhr8R/xE=",
+  "dgSpecHash": "gKov8mfh5XY=",
   "success": true,
-  "projectFilePath": "D:\\Tabarak ICT Solutions\\ministory\\Ministery of Education\\Ministery of Education.csproj",
+  "projectFilePath": "D:\\Tabarak ICT Solutions\\ministory\\MoE\\Ministery of Education\\Ministery of Education.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

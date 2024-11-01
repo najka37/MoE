@@ -10,11 +10,16 @@ namespace Ministery_of_Education.Data
         {
             
         }
-         // Ensure you have this DbSet
+        // Define DbSet for School
+        public DbSet<School> Schools { get; set; }
+        // Define DbSet for SchoolType
+        public DbSet<SchoolType> SchoolTypes { get; set; }
+
+        // Ensure you have this DbSet
         public DbSet<UserRole> UserRoles { get; set; }
 
         // Also include other DbSets if needed
-        public DbSet<User> Users { get; set; }
+      
     }
     
 }

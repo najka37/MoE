@@ -1,98 +1,64 @@
+@using Ministery_of_Education.Models.Entities
+@model IEnumerable<Ministery_of_Education.Models.Entities.School>
+
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "School Management";
 }
 
+<!-- Styles Section -->
 @section Styles {
     <link href="css/dataTables.bootstrap4.css" rel="stylesheet" asp-append-version="true">
-    <link href="css/bootstrap.min.css" rel="stylesheet" asp-append-version="true"> <!-- Ensure Bootstrap CSS is included -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" asp-append-version="true">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
-    <!-- Include Bootstrap Icons -->
 }
 
-@section Scripts {
-    <script src="js/jquery.js" asp-append-version="true"></script>
-    <script src="js/bootstrap.bundle.js" asp-append-version="true"></script> <!-- Ensure Bootstrap JS is included -->
-    <script src="js/ruang-admin.js" asp-append-version="true"></script>
-    <script src="js/jquery.dataTables.js" asp-append-version="true"></script>
-    <script src="js/dataTables.bootstrap4.js" asp-append-version="true"></script>
-
-    <script>
-        $(document).ready(function () {
-            $('#dataTableHover').DataTable(); // Initialize DataTable
-        });
-
-        $('#exampleModal').on('show.bs.modal', function (event) {
-            var button = $(event.relatedTarget); // Button that triggered the modal
-            var recipient = button.data('whatever'); // Extract info from data-* attributes
-            var modal = $(this);
-            modal.find('.modal-title').text('New message to ' + recipient);
-            modal.find('.modal-body input').val(recipient);
-        });
-    </script>
-}
-
-<!-- Topbar -->
+<!-- Main Content -->
 <div class="container-fluid" id="container-wrapper">
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-        <h1 class="h3 mb-0 text-gray-800">DataTables</h1>
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="./">Home</a></li>
-            <li class="breadcrumb-item">Tables</li>
-            <li class="breadcrumb-item active" aria-current="page">DataTables</li>
-        </ol>
+        <h1 class="h3 mb-0 text-gray-800">School Management</h1>
+        <button class="btn btn-primary" data-toggle="modal" data-target="#addSchoolModal">
+            <i class="bi bi-plus-circle"></i> Add School
+        </button>
     </div>
 
     <div class="row">
         <div class="col-lg-12">
             <div class="card mb-4">
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-primary">DataTables with Hover</h6>
-                    <!-- Button to trigger the modal -->
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"
-                        data-whatever="do">
-                        <i class="bi bi-plus-circle-fill"></i> ADD
-                    </button>
+                    <h6 class="m-0 font-weight-bold text-primary">School List</h6>
                 </div>
                 <div class="table-responsive p-3">
                     <table class="table align-items-center table-flush table-hover" id="dataTableHover">
                         <thead class="thead-light">
                             <tr>
+                                <th>School ID</th>
                                 <th>Name</th>
-                                <th>Position</th>
-                                <th>Office</th>
-                                <th>Age</th>
-                                <th>Start date</th>
-                                <th>Salary</th>
+                                <th>Location</th>
+                                <th>District</th>
+                                <th>Type</th>
+                                <th>Email</th>
+                                <th>Actions</th>
                             </tr>
                         </thead>
-                        <tfoot>
-                            <tr>
-                                <th>Name</th>
-                                <th>Position</th>
-                                <th>Office</th>
-                                <th>Age</th>
-                                <th>Start date</th>
-                                <th>Salary</th>
-                            </tr>
-                        </tfoot>
                         <tbody>
-                            <tr>
-                                <td>Tiger Nixon</td>
-                                <td>System Architect</td>
-                                <td>Edinburgh</td>
-                                <td>61</td>
-                                <td>2011/04/25</td>
-                                <td>$320,800</td>
-                            </tr>
-                            <tr>
-                                <td>Garrett Winters</td>
-                                <td>Accountant</td>
-                                <td>Tokyo</td>
-                                <td>63</td>
-                                <td>2011/07/25</td>
-                                <td>$170,750</td>
-                            </tr>
-                            <!-- Add more rows as needed -->
+                            @foreach (var school in Model)
+
+                            {
+                                <tr data-id="@school.SchoolID">
+                                    <td>@school.SchoolID</td>
+                                    <td>@school.Name</td>
+                                    <td>@school.Location</td>
+                                    <td>@school.District</td>
+                                    <td>@school.Type</td>
+                                    <td>@school.Email</td>
+                                    <td>
+                                        <button class="btn btn-warning btn-sm" onclick="Edit(@school.SchoolID);">Edit</button>
+                                        <form asp-action="Delete" asp-controller="School" asp-route-id="@school.SchoolID" method="post" style="display:inline;">
+                                            <button type="submit" class="btn btn-danger btn-sm"><i class="bi bi-trash"></i></button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
                         </tbody>
                     </table>
                 </div>
@@ -101,43 +67,162 @@
     </div>
 </div>
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-    aria-hidden="true">
+<!-- Add School Modal -->
+<div class="modal fade" id="addSchoolModal" tabindex="-1" role="dialog" aria-labelledby="addSchoolModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
-        <div class="modal-content"> 
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">New Register School</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <form>
+        <div class="modal-content">
+            <form method="post" asp-controller="School" asp-action="AddSchool">
+                <div class="modal-header">
+                    <h5 class="modal-title">Add New School</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                            placeholder="Enter email">
+                        <label for="schoolName">School Name</label>
+                        <input type="text" name="Name" class="form-control" id="schoolName" required placeholder="Enter School Name">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputPassword1">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        <label for="schoolLocation">Location</label>
+                        <input type="text" name="Location" class="form-control" id="schoolLocation" required placeholder="Enter Location">
                     </div>
                     <div class="form-group">
-                        <label class="mr-sm-2" for="inlineFormCustomSelect">Preference</label>
-                        <select class="custom-select mr-sm-2" id="inlineFormCustomSelect">
-                            <option selected>Choose...</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
+                        <label for="schoolDistrict">District</label>
+                        <input type="text" name="District" class="form-control" id="schoolDistrict" required placeholder="Enter District">
+                    </div>
+                    <div class="form-group">
+                        <label for="schoolType">Type</label>
+                        <select class="form-control" id="schoolType" name="Type" required>
+                            <option value="">Select SchoolType</option>
+                            @foreach (var i in ViewData["SchoolType"] as List<SchoolType>)
+
+
+
+                            {
+                                <option value="@i.SchoolTypeID">@i.Name</option> <!-- Show department name, use Id for value -->
+                            }
                         </select>
+                        @* <input type="text" name="Type" class="form-control" id="schoolType" required placeholder="Enter Type"> *@
                     </div>
-                </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Send message</button>
-            </div>
+                    <div class="form-group">
+                        <label for="schoolEmail">Email</label>
+                        <input type="email" name="Email" class="form-control" id="schoolEmail" required placeholder="Enter Email">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Add School</button>
+                </div>
+            </form>
         </div>
     </div>
 </div>
+
+<!-- Edit School Modal -->
+<div class="modal fade" id="editSchoolModal" tabindex="-1" role="dialog" aria-labelledby="editSchoolModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form method="post" asp-controller="School" asp-action="EditSchool">
+                <input type="hidden" id="editSchoolId" name="SchoolID" />
+                <div class="modal-header">
+                    <h5 class="modal-title">Edit School</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="editSchoolName">School Name</label>
+                        <input type="text" name="Name" class="form-control" id="editSchoolName" required placeholder="Enter School Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="editSchoolLocation">Location</label>
+                        <input type="text" name="Location" class="form-control" id="editSchoolLocation" required placeholder="Enter Location">
+                    </div>
+                    <div class="form-group">
+                        <label for="editSchoolDistrict">District</label>
+                        <input type="text" name="District" class="form-control" id="editSchoolDistrict" required placeholder="Enter District">
+                    </div>
+                    <div class="form-group">
+                        <label for="editSchoolType">Type</label>
+                        <select class="form-control" id="editSchoolType" name="Type" required>
+                            <option value="">Select SchoolType</option>
+                            @foreach (var i in ViewData["SchoolType"] as List<SchoolType>)
+
+
+
+
+
+
+
+                            {
+                                <option value="@i.SchoolTypeID">@i.Name</option> <!-- Show department name, use Id for value -->
+                            }
+                        </select>
+                        @* <input type="text" name="Type" class="form-control" id="editSchoolType" required placeholder="Enter Type"> *@
+                    </div>
+                    <div class="form-group">
+                        <label for="editSchoolEmail">Email</label>
+                        <input type="email" name="Email" class="form-control" id="editSchoolEmail" required placeholder="Enter Email">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Scripts Section -->
+@section Scripts {
+    <script src="js/jquery.js" asp-append-version="true"></script>
+    <script src="js/bootstrap.bundle.js" asp-append-version="true"></script>
+    <script src="js/jquery.dataTables.js" asp-append-version="true"></script>
+    <script src="js/dataTables.bootstrap4.js" asp-append-version="true"></script>
+
+    <script>
+        // $(document).ready(function () {
+        //     $('#dataTableHover').DataTable();
+
+        //     $('#editSchoolModal').on('show.bs.modal', function (event) {
+               
+        //         var button = $(event.relatedTarget);
+        //         var schoolId = button.data('schoolid');
+        //         var schoolName = button.data('schoolname');
+        //         var schoolLocation = button.data('schoollocation');
+        //         var schoolDistrict = button.data('schooldistrict');
+        //         var schoolType = button.data('schooltype');
+        //         var schoolEmail = button.data('schoolemail');
+        //         alert(button.data('schoolid'))
+        //         var modal = $(this);
+        //         modal.find('#editSchoolId').val(schoolId);
+        //         modal.find('#editSchoolName').val(schoolName);
+        //         modal.find('#editSchoolLocation').val(schoolLocation);
+        //         modal.find('#editSchoolDistrict').val(schoolDistrict);
+        //         modal.find('#editSchoolType').val(schoolType);
+        //         modal.find('#editSchoolEmail').val(schoolEmail);
+        //     });
+        // });
+
+        function Edit(id) {
+            var row = $("tr[data-id='" + id + "']");
+             
+            // Verify if the row was found
+            if (row.length === 0) {
+                alert("Row not found for ID: " + id);
+                return;
+            }
+            $('#editSchoolId').val(id);
+            $('#editSchoolName').val(row.find("td:eq(1)").text());
+            $('#editSchoolLocation').val(row.find("td:eq(2)").text());
+            $('#editSchoolDistrict').val(row.find("td:eq(3)").text());
+            $('#editSchoolType').val(row.find("td:eq(4)").text());
+            $('#editSchoolEmail').val(row.find("td:eq(5)").text());
+            $('#editSchoolModal').modal('show');
+            // Populate the edit form fields as needed
+        }
+    </script>
+}

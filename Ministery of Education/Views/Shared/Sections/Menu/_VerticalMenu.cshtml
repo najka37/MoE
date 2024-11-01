@@ -51,6 +51,13 @@
             <div>School </div>
           </a>
         </li>
+
+                <li class='menu-item@(currentPage == "/SchoolType/Index" ? " active" : "")'>
+                    <a asp-controller="SchoolType" asp-action="Index" class="menu-link">
+                        <div>School Type</div>
+                    </a>
+                </li>
+
         <li class='menu-item@(currentPage == "/LayoutExamples/WithoutNavbar" ? " active" : "")'>
           <a asp-controller="LayoutExamples" asp-action="WithoutNavbar" class="menu-link">
             <div>Student</div>
@@ -114,10 +121,12 @@
          <div>Create User</div>
           </a>
         </li>
-        <li class='menu-item@(currentPage == "/Auth/RegisterBasic" ? " active" : "")'>
-          <a asp-controller="UserRole" asp-action="Index" class="menu-link" target="_blank">
-            <div>User Role</div>
-          </a>
+
+                <li class='menu-item@(currentPage == "/Auth/RegisterBasic" ? " active" : "")'>
+                    <a asp-controller="UserRole" asp-action="Index" class="menu-link">
+                        <div>User Role</div>
+                    </a>
+                </li>
         </li>
       </ul>
     </li>

@@ -21,6 +21,56 @@ namespace Ministery_of_Education.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Ministery_of_Education.Models.Entities.School", b =>
+                {
+                    b.Property<int>("SchoolID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SchoolID"));
+
+                    b.Property<string>("District")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Location")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Type")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("SchoolID");
+
+                    b.ToTable("Schools");
+                });
+
+            modelBuilder.Entity("Ministery_of_Education.Models.Entities.SchoolType", b =>
+                {
+                    b.Property<long>("SchoolTypeID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("SchoolTypeID"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("SchoolTypeID");
+
+                    b.ToTable("SchoolType");
+                });
+
             modelBuilder.Entity("Ministery_of_Education.Models.Entities.User", b =>
                 {
                     b.Property<int>("Id")
@@ -41,7 +91,7 @@ namespace Ministery_of_Education.Migrations
                     b.HasIndex("UserRoleId")
                         .IsUnique();
 
-                    b.ToTable("Users");
+                    b.ToTable("User");
                 });
 
             modelBuilder.Entity("Ministery_of_Education.Models.Entities.UserRole", b =>
